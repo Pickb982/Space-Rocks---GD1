@@ -3,7 +3,7 @@ audio_play_sound(snd_rockdestory, 0, false, 1, 0, random_range(0.6, 1.1));
 obj_game.points += 50
 
 instance_destroy(other);
-effect_create_above(ef_explosion, x, y, 1, c_white);
+effect_create_layer("Instances", ef_explosion, x, y, 1, c_white);
 
 direction = random(360);
 
