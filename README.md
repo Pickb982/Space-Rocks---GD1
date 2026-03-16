@@ -1,4 +1,6 @@
 # Space Rocks Project
+**Version 1.1 Release**
+
 Welcome to my Space Rocks Project!
 
 ## I have completed the following tutorials: ##
